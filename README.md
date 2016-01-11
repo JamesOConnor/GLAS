@@ -12,3 +12,5 @@ pandas http://pandas.pydata.org/
 These all come as part of anaconda python http://continuum.io/downloads
 
 Outputs a .txt file, can be opened/processed further in CloudCompare - http://cloudcompare.org/
+
+![alt tag](http://studentnet.kingston.ac.uk/~k1454695/test/Colour.bmp)
